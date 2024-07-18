@@ -33,7 +33,7 @@ Feel free to use the graphics as long as you credit me.
 
 ### Sound
 The game uses sound effects from MADrigal Simualtors, Permission was asked to use the files as well as if it was ok to resample them from 22050hz to 44100hz.
-All these sounds use the "Creative Common Attribution-NonCommercial-NoDerivatives" license and are created by Luca "MADrigal" Antignano.
+All these sounds use the "[Creative Common Attribution-NonCommercial-NoDerivatives](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)" 4.0 license and are created by Luca "MADrigal" Antignano.
 His website for the simulators can be found on the following url: http://www.madrigaldesign.it/sim/
 
 Files used:
